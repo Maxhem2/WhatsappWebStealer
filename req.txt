@@ -1,0 +1,8 @@
+opencv-python
+mss
+pyautogui
+mouse
+psutil
+pywin32
+numpy
+keyboard
