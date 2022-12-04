@@ -1,6 +1,8 @@
 # WhatsappWebStealer
 Software for replacing the Whatsapp web qrcode with your own Whatsapp's code 
 
+DO NOT TOUCH MOUSE AT ANY TIME
+
 Method 1 - WhatsApp Desktop\
 Download all files of the repo and put them in a folder\
 To login into WhatsApp Desktop, install WhatsApp or WhatsApp Beta from the Microsoft Store\
