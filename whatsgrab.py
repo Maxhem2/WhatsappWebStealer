@@ -14,7 +14,7 @@ import keyboard
 ftpadress="myserver.com/Ip"
 ftpuser="admin"
 ftppassword="password"
-ftpwhatshookfolderlocation="httpsdocs/id/WhatsHook"
+ftpwhatshookfolderlocation="httpsdocs/Ip/WhatsHook"
 
 try:
     session = ftplib.FTP(ftpadress,ftpuser,ftppassword)
