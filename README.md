@@ -1,4 +1,6 @@
 # WhatsappWebStealer
+[There is a much more suphisticated and more updated version with both Full Whatsapp Desktop and Whatsapp Web support and stealing avaliable, open an issue if interested]
+
 Software for replacing the Whatsapp web qrcode with your own Whatsapp's code 
 
 DO NOT TOUCH MOUSE AT ANY TIME
